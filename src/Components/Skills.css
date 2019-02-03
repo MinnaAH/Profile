@@ -1,0 +1,22 @@
+.Skills{
+    margin-left: 2%;
+    margin-right: 2%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Border{
+    border-style: groove;
+    border-color: #BBF4F9;
+}
+
+@media (max-width: 768px){
+    .div-large{
+      display:none;
+    }
+  }
+  
+  @media (min-width: 769px){
+    .div-small{
+      display: none;
+    }
+  }
